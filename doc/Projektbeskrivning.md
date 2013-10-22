@@ -4,25 +4,25 @@ Projektmedlemmar:
 
 *Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
 
-[Körbar version av projektet](http://tstjostudent.github.io/Projektet)
+[Körbar version av projektet](https://github.com/gustavhagberg/projekt.git)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
 ## Beskrivning av projektet
-*Vi tänkte göra en spelblogg . Vad är det ni vill skapa? Varför? Hur fick ni idén?*
+*Vi tänkte göra en spelblogg . Det var en kompis som tog upp idén att skapa en blogg med oss för att vi pluggar webteknik så hade det i bakhuvudet och i brist på andra alternativ så bestämde vi oss för att göra en blogg för oss tre som vi kan använda för att förmedla nyheter m.m.*
 
 ## Tekniker
-*Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
+*De vi ska använda oss utav är CSS och HTML för det är det vi har lärt oss mest om och känner oss bekvämast med.*
 
 ## Begränsningar
-*Eventuella begränsningar i projektet. Kanske kommer viss funktionalitet att fejkas eftersom ni inte besitter kunskaper att skapa detta ännu?*
+*för tillfället så är det inga begränsningar men vi vet ej vilka problem vi kommer stöta på under tidens gång.*
 
 ## Förstudier
-*Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
+*Vi har inget från start, vi tänker utforma från grunden.*
 
 ## *Förändra*
 *Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
 
 ## Tidsplanering
-*Länka till tidsplaneringen här, eller fäll in som en bild.*
+*https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AvJdKnt-uJ_WdFFNVWlFSzRPaE9PcVRiR0N2YjRNQVE#gid=0*
 
